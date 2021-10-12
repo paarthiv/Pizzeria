@@ -1,0 +1,13 @@
+input{
+    margin: 10px;
+}
+
+#Show_Button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Sort_Button{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
